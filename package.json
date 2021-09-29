@@ -19,6 +19,6 @@
   "homepage": "https://github.com/kybij/Social-network#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^6.0.8"
+    "mongoose": "^5.13.7"
   }
 }
